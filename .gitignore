@@ -1,0 +1,18 @@
+#data
+data/
+
+#compiled java files
+*.class
+build/
+target/
+
+# Hadoop jars
+*.jar
+
+#Hadoop Generated Output
+output/
+outputs/
+
+#logs and temporary miscellaneous files
+*.log
+*.tmp
